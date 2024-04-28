@@ -3,8 +3,11 @@ This project aims to develop a distributed image processing system using cloud c
 
 # Features and Specifications
 -Distributed Processing: The system should be able to distribute image processing tasks across multiple virtual machines in the cloud.
+
 -Image Processing Algorithms: Implement various image processing algorithms such as filtering, edge detection, and color manipulation.
+
 -Scalability: The system should be scalable, allowing for the addition of more virtual machines as the workload increases.
+
 -Fault Tolerance: The system should be resilient to failures, with the ability to reassign tasks from failed nodes to operational ones.
 
 # Installation
