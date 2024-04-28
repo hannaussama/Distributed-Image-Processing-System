@@ -29,9 +29,9 @@ This is a project for Distributed Computing course at Ain Shams University
 Performed by:
 Hanna Ussama
 
-salma sherif
+Salma Sherif
 
-sara medhat
+Sara Medhat
 
-sarah mazhar
+Sarah Mazhar
 
