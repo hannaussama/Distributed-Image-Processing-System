@@ -10,9 +10,6 @@ This project aims to develop a distributed image processing system using cloud c
 
 -Fault Tolerance: The system should be resilient to failures, with the ability to reassign tasks from failed nodes to operational ones.
 
-# Installation
-1.Clone the repository:
-
 # Usage
 1)Configure cloud-based virtual machines for distributed computing.
 
@@ -31,7 +28,10 @@ This is a project for Distributed Computing course at Ain Shams University
 
 Performed by:
 Hanna Ussama
+
 salma sherif
+
 sara medhat
+
 sarah mazhar
 
