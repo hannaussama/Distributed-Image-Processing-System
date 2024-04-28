@@ -30,12 +30,8 @@ This project is licensed under the MIT License
 This is a project for Distributed Computing course at Ain Shams University
 
 Performed by:
-
 Hanna Ussama
-
 salma sherif
-
 sara medhat
-
 sarah mazhar
 
