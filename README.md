@@ -15,9 +15,12 @@ This project aims to develop a distributed image processing system using cloud c
 
 # Usage
 1)Configure cloud-based virtual machines for distributed computing.
+
 2)Run the main application script: 
       python gui.py
+      
 3)Follow the prompts to upload an image, select processing operation, and monitor progress.
+
 4)Once processing is complete, download the processed image.
 
 # License
@@ -25,9 +28,14 @@ This project is licensed under the MIT License
 
 # Acknowledgments
 This is a project for Distributed Computing course at Ain Shams University
+
 Performed by:
+
 Hanna Ussama
+
 salma sherif
+
 sara medhat
+
 sarah mazhar
 
